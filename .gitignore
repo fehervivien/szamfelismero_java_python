@@ -1,0 +1,12 @@
+
+**/venv/
+**/__pycache__/
+*.pyc
+
+
+**/target/
+**/.idea/
+**/.vscode/
+*.class
+*.iml
+.mvn/wrapper/maven-wrapper.jar
